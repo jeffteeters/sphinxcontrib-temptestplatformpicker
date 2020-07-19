@@ -1,2 +1,2 @@
 sphinx-rtd-theme
--e .
+--index-url https://test.pypi.org sphinxcontrib-temptestplatformpicker
