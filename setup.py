@@ -7,7 +7,7 @@ with open("README.rst") as f:
 
 setup(
     name="sphinxcontrib-temptestplatformpicker",
-    version="1.1",
+    version="1.1.1",
     author="Jeff Teeters",
     author_email="jeff@teeters.us",
     license="MIT",
