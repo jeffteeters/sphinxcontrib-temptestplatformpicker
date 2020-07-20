@@ -49,8 +49,8 @@ class PlatformChoiceDirective(Directive):
         return [content_node]
 
 
-CSS_FILENAME = "platformpicker.css"
-JS_FILENAME  = "platformpicker.js"
+CSS_FILENAME = "temptestplatformpicker.css"
+JS_FILENAME  = "temptestplatformpicker.js"
 
 
 def add_assets(app):
