@@ -1,2 +1,3 @@
+--extra-index-url https://test.pypi.org
 sphinx-rtd-theme
---index-url https://test.pypi.org sphinxcontrib-temptestplatformpicker
+sphinxcontrib-temptestplatformpicker
